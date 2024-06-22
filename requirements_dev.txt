@@ -1,10 +1,11 @@
-pymongo
-pymongo[srv]
-dnspython
 pandas
-numpy 
-ensure
-pytest
+scikit-learn
+numpy
+seaborn
+flask
+mlflow==2.2.2
+dvc
+
 
 
 -e .
