@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91863/assign6/firstproject/mlruns/0/a64df56f1963424fbfeba3fb4b07c1cc/artifacts
+end_time: 1719328652993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a64df56f1963424fbfeba3fb4b07c1cc
+run_name: kindly-shark-551
+run_uuid: a64df56f1963424fbfeba3fb4b07c1cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719328645164
+status: 3
+tags: []
+user_id: '91863'

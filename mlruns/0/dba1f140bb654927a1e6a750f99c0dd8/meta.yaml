@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91863/assign6/firstproject/mlruns/0/dba1f140bb654927a1e6a750f99c0dd8/artifacts
+end_time: 1719249319905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dba1f140bb654927a1e6a750f99c0dd8
+run_name: resilient-smelt-646
+run_uuid: dba1f140bb654927a1e6a750f99c0dd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719249314885
+status: 3
+tags: []
+user_id: '91863'
